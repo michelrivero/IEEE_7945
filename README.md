@@ -1,7 +1,9 @@
+These documents belong to the work:
 
 __Theoretical, numerical and experimental investigation of a Faraday disc generator for energy harvesting applications__
-authored by _Jorge Galván, F. S. Sellschopp, Michel Rivero, Carlos Álvarez, Rodrigo Loera, Raúl Ávalos_
-Published in  IEEE Latin America Transactions
+
+authored by _Jorge Galván, F. S. Sellschopp, Michel Rivero, Carlos Álvarez, Rodrigo Loera, Raúl Ávalos_ Published in  [IEEE Latin America Transactions]
+[1]: https://latamt.ieeer9.org/index.php/transactions/issue/view/31 
 
 
 ## Compiling
