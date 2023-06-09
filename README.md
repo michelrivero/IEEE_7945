@@ -1,2 +1,5 @@
 # IEEE_7945
-Instrucciones
+## Instrucciones
+articulo autores 
+instrucciones para descomprimir
+
