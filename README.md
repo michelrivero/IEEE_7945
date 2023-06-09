@@ -4,6 +4,8 @@ __Theoretical, numerical and experimental investigation of a Faraday disc genera
 
 authored by _Jorge Galván, F. S. Sellschopp, Michel Rivero, Carlos Álvarez, Rodrigo Loera, Raúl Ávalos_ Published in  IEEE Latin America Transactions
 
+The manuscript can be found at: https://latamt.ieeer9.org/index.php/transactions/issue/view/31
+
 ### Compiling
 
 1. Download and extract the file shared on GitHub.
